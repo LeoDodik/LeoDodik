@@ -1,3 +1,4 @@
+[![MasterHead](https://imgs.search.brave.com/Cbi2T8dXsvYGv7stdmKZpqgEuXawVNYtnOeqzAD8xXw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZmFzdC1n/cmVlbi1zdHJlYW0t/Y29kaW5nLWtqdXE3/ZXh1dGEyanYxNnYu/Z2lm.gif)
 <h1 align="center">Hi 👋, I'm Leo Dodik</h1>
 <h3 align="center">A developer diving into the realm of full stack development, seeking to gain proficiency in both front-end and back-end technologies.</h3>
 <img align="right" alt="Coding" width="400" src= "https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
