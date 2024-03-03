@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoDodik](https://github.com/LeoDodik)
 
-- 💬 Ask me about **Anything about programming**
-
 - 📫 How to reach me **leododik4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
