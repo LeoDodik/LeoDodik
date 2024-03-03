@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **DApp**
 
-- 🌱 I’m currently learning **PostgreSQL, React, SQL**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Any full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoDodik](https://github.com/LeoDodik)
 
-- 💬 Ask me about **Node/Express.js, JavaScript, Axios**
+- 💬 Ask me about **Anything about programming**
 
 - 📫 How to reach me **leododik4@gmail.com**
 
