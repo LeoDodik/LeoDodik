@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoDodik](https://github.com/LeoDodik)
 
-- 📫 How to reach me **leododik4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
