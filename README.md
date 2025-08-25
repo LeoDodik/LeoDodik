@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src= "https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 <p align="left"> <a href="https://twitter.com/ldodik63633" target="blank"><img src="https://img.shields.io/twitter/follow/ldodik63633?logo=twitter&style=for-the-badge" alt="ldodik63633" /></a> </p>
 
-- 🔭 I’m currently working on **DApp**
+- 🔭 I’m currently working on **Balkingo**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Spring and AngularJS**
 
-- 👯 I’m looking to collaborate on **Any full stack projects**
+- 👯 I’m looking to collaborate on **any full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoDodik](https://github.com/LeoDodik)
 
